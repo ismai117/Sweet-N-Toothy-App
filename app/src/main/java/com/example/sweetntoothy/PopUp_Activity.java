@@ -38,7 +38,7 @@ public class PopUp_Activity extends AppCompatActivity {
 
         name.setText(nameValue);
         description.setText(descriptionValue);
-        price.setText("£"riceValue);
+        price.setText("£" + priceValue);
 
     }
 }

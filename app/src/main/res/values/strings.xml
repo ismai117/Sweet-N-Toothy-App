@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">SweetNToothy</string>
+    <string name="description_hint">description</string>
+    <string name="price_hint">price</string>
+    <string name="name_hint">name</string>
+
+
+    <string-array name="dessert">
+        <item>Sundaes</item>
+        <item>Waffles</item>
+        <item>Crepes</item>
+        <item>Cookie Dough</item>
+        <item>Gelato Scoops</item>
+        <item>Hot Puddings</item>
+        <item>Cakes</item>
+        <item>Milkshakes</item>
+    </string-array>
+
+</resources>
